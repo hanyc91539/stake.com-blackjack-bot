@@ -16,6 +16,8 @@ import requests
 RESULT_WINN = "Win"
 RESULT_LOSS = "Loss"
 
+# RESULT_WinLoss = "Loss"
+
 initialBetAmount = 0.0001
 
 HAND_HARD = "Hard"
