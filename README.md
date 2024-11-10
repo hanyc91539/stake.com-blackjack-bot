@@ -33,4 +33,4 @@ Given the fact that you can see the dealer's cards, factor this into your decisi
 Since Gold Coins have no redeemable value, it's smart to use them to get comfortable with the game and practice your strategies. When you feel more confident, you can start playing with Stake Cash, where you can redeem winnings for prizes.
 
 # License
-Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
+Licensed under the MIT license
