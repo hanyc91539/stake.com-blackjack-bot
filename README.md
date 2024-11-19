@@ -29,8 +29,5 @@ Chasing 21 in every round is tempting, but it's wise to hold your position if yo
 ### Pay attention to the dealer's hand
 Given the fact that you can see the dealer's cards, factor this into your decision-making process. For instance, if the dealer shows an Ace and a 7, totaling 17, you should adjust your strategy accordingly. In such cases, you might want to take greater risks to beat the dealer.
 
-### Practice with Gold Coins
-Since Gold Coins have no redeemable value, it's smart to use them to get comfortable with the game and practice your strategies. When you feel more confident, you can start playing with Stake Cash, where you can redeem winnings for prizes.
-
 # License
 Licensed under the MIT license
